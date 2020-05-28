@@ -2,9 +2,13 @@
 
 This is a community for those who care and are proud of what they do. For those developers, regardless how experienced they are, who want to improve and master their craft.
 
-## Discussion & Upcoming Events
-https://www.facebook.com/groups/570463523588860
+## Upcoming Events
 
+Events are created on this [Facebook group](https://www.facebook.com/groups/570463523588860).
+
+## Learning Guide
+
+:book: Useful resources to help you master the craft: https://github.com/software-crafters-karachi/learning-guide
 
 ## Past Meet-ups
 
