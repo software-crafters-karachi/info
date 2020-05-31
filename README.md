@@ -8,9 +8,17 @@ Events are created on this [Facebook group](https://www.facebook.com/groups/5704
 
 ## Learning Guide
 
-:book: Useful resources to help you master the craft: https://github.com/software-crafters-karachi/learning-guide
+:book: Resources to help you master the craft: https://github.com/software-crafters-karachi/learning-guide
 
 ## Past Meet-ups
+
+#### :electric_plug: 2020.05.30 - SOLID Principles
+
+**Recording:** https://youtu.be/oGCL8eEFAjw
+
+**Kata:** https://github.com/karachi-katas/Racing-Car-Leaderboard-Kata
+
+**Slides:** https://docs.google.com/presentation/d/1KyMSpkbfFmq5X5d1j2pF6jtshjdeeEsp-0xGMU1RA-4
 
 #### :factory: 2020.05.23 - Design Patterns
 
@@ -22,11 +30,11 @@ Finally, teams presented their pattern & kata to the larger group.
 
 **Recording:** https://youtu.be/V4A0rs7MO-w
 
-**Kata:** https://github.com/software-crafters-khi/refactoring-kata.git
+**Kata:** https://github.com/karachi-katas/refactoring-kata
 
 **Slides:** https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0
 
-#### :zap: 2020.05.17 - Lightning Talks & Lean Coffee
+#### :zap: 2020.05.16 - Lightning Talks & Lean Coffee
 
 Lightning talks:
 1. **Effective Listening** by [@hammad096](https://github.com/hammad096)
@@ -52,7 +60,7 @@ Lightning talks:
 
 **Kata:** https://github.com/Jozeb/bowling-kata-tdd
 
-**Slides:** https://docs.google.com/presentation/d/1UWcJugHg2OWpmZAfxZ-au8E7mRpTxvXMO7vNR4GUqUE/edit#slide=id.p
+**Slides:** https://docs.google.com/presentation/d/1UWcJugHg2OWpmZAfxZ-au8E7mRpTxvXMO7vNR4GUqUE
 
 #### :rocket: 2020.04.18 - Pair-Programming, TDD
 
